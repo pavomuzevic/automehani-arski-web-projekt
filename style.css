@@ -1,0 +1,56 @@
+body{
+font-family: Arial;
+margin:0;
+background:#f4f4f4;
+}
+
+header{
+background:#222;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+nav ul{
+display:flex;
+justify-content:center;
+list-style:none;
+padding:0;
+}
+
+nav li{
+margin:10px;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+font-weight:bold;
+}
+
+main{
+padding:20px;
+}
+
+img{
+width:100%;
+max-width:600px;
+}
+
+table{
+border-collapse:collapse;
+width:50%;
+}
+
+table, th, td{
+border:1px solid black;
+padding:10px;
+}
+
+footer{
+background:#222;
+color:white;
+text-align:center;
+padding:10px;
+margin-top:40px;
+}
